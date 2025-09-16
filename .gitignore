@@ -1,0 +1,15 @@
+# Jupyter checkpoint folders
+.ipynb_checkpoints/
+
+# VSCode/other virtual documents
+.virtual_documents/
+
+# (tuỳ chọn) không muốn push file html export
+# *.html
+
+# (tuỳ chọn) ignore Python cache, venv, pyc...
+__pycache__/
+*.pyc
+env/
+venv/
+.ipynb_checkpoints/
