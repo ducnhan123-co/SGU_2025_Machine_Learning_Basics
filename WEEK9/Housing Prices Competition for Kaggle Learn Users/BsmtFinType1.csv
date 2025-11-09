@@ -1,7 +1,3 @@
-BsmtFinType1,count
-Unf,430
-GLQ,418
-ALQ,220
-BLQ,148
-Rec,133
-LwQ,74
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b7b8b4101dec1ecbd1ebc1b3f652412fa2054f86ecc8eb571d9628b546c8ea3
+size 66

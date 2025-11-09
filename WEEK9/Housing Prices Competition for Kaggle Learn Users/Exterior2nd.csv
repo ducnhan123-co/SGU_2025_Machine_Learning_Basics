@@ -1,17 +1,3 @@
-Exterior2nd,count
-VinylSd,504
-MetalSd,214
-HdBoard,207
-Wd Sdng,197
-Plywood,142
-CmentBd,60
-Wd Shng,38
-Stucco,26
-BrkFace,25
-AsbShng,20
-ImStucc,10
-Brk Cmn,7
-Stone,5
-AsphShn,3
-Other,1
-CBlock,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea2dfe4ac593b2b6054389c407002983654a90365147011d14e28188de24678f
+size 188

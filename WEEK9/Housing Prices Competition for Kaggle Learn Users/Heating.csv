@@ -1,7 +1,3 @@
-Heating,count
-GasA,1428
-GasW,18
-Grav,7
-Wall,4
-OthW,2
-Floor,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5e32cb3109387cd630972e2842ada2ec156b34f127dff2b8b3a60ae37b5c591
+size 61
